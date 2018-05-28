@@ -39,5 +39,4 @@ Open the final.rviz settings located in the 'rviz' folder.
 Then run the following commands:
 1) Run 'roslaunch final_project final_project.launch'
 2) Run 'rosrun final_project mapping.py'. This will run the mapping service.
-3) Run 'rosrun final_project control.py'. This will run the control script.
 
